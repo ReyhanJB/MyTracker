@@ -1,0 +1,4 @@
+#Sun Nov 19 21:17:19 PST 2017
+base.0=/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

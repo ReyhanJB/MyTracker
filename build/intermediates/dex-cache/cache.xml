@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/27f52c4182eae8388255df0ec5a31478ddb15863/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_9f3f7fb90abd7818031e8cfb860afdcff0825fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1f19b998b2484c42eecef102b9dbee7ae2b76b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/608da69b61c75368d7c38751f6c1342b5ede8b9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_52ae18e47a6e22ca377b184bd9b345073c22d118.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dca1a9b038db5fbfa84cd15102e9a6235ddfa795">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f3af9dd3963971cd60f791f210becc4e815750f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/jacocoagent_b7410b0004717cbef052a687ccf1f734fd93ee95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/2106b766aa82c04158eb9bd27f313cce4ba314c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_3dc9f79495ba081a5ce24804fece4d67b21afc77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff987ab698e39ca7739ef7d091e9fa5835219438/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_9abe11ef7a6ef761bb6f37399a4fae56b8b61ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/66fded53e545da9cd46f04c066df43769b568da9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_e6560db73354600a9fc763e3c98b4b3fb9ebbf95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/bf8f2f1b89b4d9eaaa6ab7603caee73a958b8c28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_cb0107b34f7236f948b5bd565b7098590c3f815d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/f788319c05c7844f92f22cf804d2793be6efcccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_4c796f62b7f6b627c6ac5bdbd62e0a523362ad39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/f6a6a3d056ca526dfc146c124496bb9d95d488c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_2f70af50b3440d4410a97c075a96fff6d80e3352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/bf1920f37d58e9a3ba0e2d6ef81edfaa237efb22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_c4213bfce553fe058b7e9c8beb09fa5a80754fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reyhanjb/.android/build-cache/8c3561a5b3b307b070628c9bf8bd0e1ea47b0190/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/pre-dexed/debug/classes_f0555ea8dc7836f37e3a270f1694efba7e024774.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:2:1-67:79
+	package
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:12:2-73
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:12:19-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:13:2-73
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:13:19-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:14:2-76
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:14:19-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:15:2-83
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:15:19-80
+supports-screens
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:17:2-48
+	android:anyDensity
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:17:20-45
+uses-sdk
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/reyhanjb/.android/build-cache/8c3561a5b3b307b070628c9bf8bd0e1ea47b0190/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/reyhanjb/.android/build-cache/bf8f2f1b89b4d9eaaa6ab7603caee73a958b8c28/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/reyhanjb/.android/build-cache/608da69b61c75368d7c38751f6c1342b5ede8b9e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/reyhanjb/.android/build-cache/bf1920f37d58e9a3ba0e2d6ef81edfaa237efb22/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/f788319c05c7844f92f22cf804d2793be6efcccb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/2106b766aa82c04158eb9bd27f313cce4ba314c4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/reyhanjb/.android/build-cache/66fded53e545da9cd46f04c066df43769b568da9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/reyhanjb/.android/build-cache/27f52c4182eae8388255df0ec5a31478ddb15863/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/reyhanjb/.android/build-cache/f6a6a3d056ca526dfc146c124496bb9d95d488c4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:21:9-38
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:20:9-35
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:23:5-65:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/reyhanjb/.android/build-cache/8c3561a5b3b307b070628c9bf8bd0e1ea47b0190/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/reyhanjb/.android/build-cache/bf8f2f1b89b4d9eaaa6ab7603caee73a958b8c28/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/reyhanjb/.android/build-cache/608da69b61c75368d7c38751f6c1342b5ede8b9e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/reyhanjb/.android/build-cache/bf1920f37d58e9a3ba0e2d6ef81edfaa237efb22/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/f788319c05c7844f92f22cf804d2793be6efcccb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/2106b766aa82c04158eb9bd27f313cce4ba314c4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/reyhanjb/.android/build-cache/66fded53e545da9cd46f04c066df43769b568da9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/reyhanjb/.android/build-cache/27f52c4182eae8388255df0ec5a31478ddb15863/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/reyhanjb/.android/build-cache/f6a6a3d056ca526dfc146c124496bb9d95d488c4/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:26:9-40
+service#edu.uci.seal.testapp.service.LocationService
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:27:9-80
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:27:18-77
+service#edu.uci.seal.testapp.service.BluetoothService
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:28:9-33:19
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:28:18-78
+intent-filter#android.bluetooth.device.action.ACL_CONNECTED+android.bluetooth.device.action.ACL_DISCONNECTED
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:29:4-32:20
+action#android.bluetooth.device.action.ACL_CONNECTED
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:30:13-73
+action#android.bluetooth.device.action.ACL_DISCONNECTED
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:31:13-76
+service#edu.uci.seal.testapp.service.NetworkService
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:34:9-79
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:34:18-76
+service#edu.uci.seal.testapp.service.BatteryService
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:35:9-79
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:35:18-76
+activity#edu.uci.seal.testapp.MyActivity
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:37:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:42:27-74
+activity#edu.uci.seal.testapp.DisplayMessageActivity
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:47:13-67
+	android:configChanges
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:46:13-71
+activity#edu.uci.seal.testapp.DisplayStatusActivity
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:52:13-57
+	android:configChanges
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:51:13-70
+activity#edu.uci.seal.testapp.DisplayContactActivity
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:57:13-58
+	android:configChanges
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:58:13-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:56:13-71
+activity#edu.uci.seal.testapp.DisplayLocationActivity
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:62:13-59
+	android:configChanges
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:63:13-74
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:61:13-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:67:1-68
+	android:name
+		ADDED from /Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/AndroidManifest.xml:67:18-66
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/reyhanjb/.android/build-cache/8c3561a5b3b307b070628c9bf8bd0e1ea47b0190/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/reyhanjb/.android/build-cache/bf8f2f1b89b4d9eaaa6ab7603caee73a958b8c28/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/reyhanjb/.android/build-cache/608da69b61c75368d7c38751f6c1342b5ede8b9e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/reyhanjb/.android/build-cache/bf1920f37d58e9a3ba0e2d6ef81edfaa237efb22/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/f788319c05c7844f92f22cf804d2793be6efcccb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/reyhanjb/.android/build-cache/2106b766aa82c04158eb9bd27f313cce4ba314c4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/reyhanjb/.android/build-cache/66fded53e545da9cd46f04c066df43769b568da9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/reyhanjb/.android/build-cache/27f52c4182eae8388255df0ec5a31478ddb15863/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/reyhanjb/.android/build-cache/f6a6a3d056ca526dfc146c124496bb9d95d488c4/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/AndroidManifest.xml:26:9-47

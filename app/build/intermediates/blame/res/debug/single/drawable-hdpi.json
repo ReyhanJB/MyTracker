@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/drawable-hdpi/fairfax.png",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/drawable-hdpi/fairfax.png"
+    },
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/drawable-hdpi/tehran.png",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/drawable-hdpi/tehran.png"
+    },
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/drawable-hdpi/irvine.png",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/drawable-hdpi/irvine.png"
+    }
+]

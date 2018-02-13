@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/reyhanjb/.android/build-cache/2ec15e345c39ccf52d67bb489f9909677a51e0c6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

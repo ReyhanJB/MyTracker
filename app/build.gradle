@@ -1,0 +1,65 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "edu.uci.seal.testapp"
+        minSdkVersion 18
+        targetSdkVersion 19
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+        // Default instrumentation runner in order to use JUnit4 classes
+        //testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        // Default instrumentation runner in order to use Robolectric classes
+        testInstrumentationRunner "android.support.test.runner.RobolectricTestRunner"
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+            testCoverageEnabled = true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:gridlayout-v7:25.3.1'
+
+    // Dependencies for Robolectric
+    testCompile "org.robolectric:robolectric:3.3.2"
+
+    // Dependencies for JUnit
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:2.3.0'
+
+    //Dependencies for Instrumented tests
+    androidTestCompile 'com.android.support:support-annotations:25.3.1'
+    androidTestCompile 'com.android.support.test:runner:0.5'
+    androidTestCompile 'com.android.support.test:rules:0.5'
+
+    // Optional -- Hamcrest library
+    androidTestCompile 'org.hamcrest:hamcrest-library:1.3'
+
+    // Optional -- UI testing with Espresso
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    // Optional -- UI testing with UI Automator
+    androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.2'
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/menu/my.xml",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/menu/my.xml"
+    },
+    {
+        "merged": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/build/intermediates/res/merged/debug/menu/display_message.xml",
+        "source": "/Users/reyhanjb/Documents/Studio/SealTestApp/app/src/main/res/menu/display_message.xml"
+    }
+]
